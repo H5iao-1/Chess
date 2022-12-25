@@ -5,3 +5,7 @@ Follow *./backend/pom.xml* file to install the maven dependencies to run the spr
 Use *./mysql/chess.sql* file to source the mySQL database. The database run at the port 3306.
 
 Install *flask* correctly to use python algorithms properly.
+
+ChessBoard component from https://github.com/roocky-lab/vue-shudan
+
+Gobang AI from https://github.com/colingogogo/gobang_AI
